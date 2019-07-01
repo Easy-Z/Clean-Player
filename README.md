@@ -1,2 +1,15 @@
 # Clean-Player
-A jailbreak tweak...
+# Description:
+Ever feel like Apple sometimes clutters the UI?
+
+Well Clean Player helps remove/hide some of it. We hope y'all enjoy! 
+Options in Prefs:
+
+* Remove time stamps from current playing song.
+* Hide airplay icon on the lockscreen player.
+* Hide the duration slider.
+* Change the background color of the player.
+P.S. Admire simplicity
+
+# Changelog
+Asked my daddi to fix the bugs in prefs, after a few arguments he did it!
