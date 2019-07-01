@@ -1,0 +1,9 @@
+Package: com.easy-z.cleanplayer
+Name: CleanPlayer
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Unclutter your media player! 
+Maintainer: Easy-Z & CloudDev
+Author: Easy-Z & CloudDev
+Section: Tweaks
