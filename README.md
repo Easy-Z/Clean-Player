@@ -11,5 +11,7 @@ Options in Prefs:
 * Change the background color of the player.
 P.S. Admire simplicity
 
+Check the review out: https://www.idownloadblog.com/2019/04/18/clean-player/
+
 # Changelog
 Asked my daddi to fix the bugs in prefs, after a few arguments he did it!
